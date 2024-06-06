@@ -1,0 +1,16 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sodicmovic.github.io/mywebsite",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
